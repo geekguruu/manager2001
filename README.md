@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This account managed by [Mr.Pavankumar Hede](https://github.com/hegdepavankumar) & Team
+
 <!--
 **manager2001/manager2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
